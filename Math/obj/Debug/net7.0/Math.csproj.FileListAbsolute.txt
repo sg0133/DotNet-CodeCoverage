@@ -1,0 +1,12 @@
+/Users/sourav/codes/DotNet-CodeCoverage/Math/bin/Debug/net7.0/Math.deps.json
+/Users/sourav/codes/DotNet-CodeCoverage/Math/bin/Debug/net7.0/Math.dll
+/Users/sourav/codes/DotNet-CodeCoverage/Math/bin/Debug/net7.0/Math.pdb
+/Users/sourav/codes/DotNet-CodeCoverage/Math/obj/Debug/net7.0/Math.csproj.AssemblyReference.cache
+/Users/sourav/codes/DotNet-CodeCoverage/Math/obj/Debug/net7.0/Math.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sourav/codes/DotNet-CodeCoverage/Math/obj/Debug/net7.0/Math.AssemblyInfoInputs.cache
+/Users/sourav/codes/DotNet-CodeCoverage/Math/obj/Debug/net7.0/Math.AssemblyInfo.cs
+/Users/sourav/codes/DotNet-CodeCoverage/Math/obj/Debug/net7.0/Math.csproj.CoreCompileInputs.cache
+/Users/sourav/codes/DotNet-CodeCoverage/Math/obj/Debug/net7.0/Math.dll
+/Users/sourav/codes/DotNet-CodeCoverage/Math/obj/Debug/net7.0/refint/Math.dll
+/Users/sourav/codes/DotNet-CodeCoverage/Math/obj/Debug/net7.0/Math.pdb
+/Users/sourav/codes/DotNet-CodeCoverage/Math/obj/Debug/net7.0/ref/Math.dll
